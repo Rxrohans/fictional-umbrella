@@ -16,7 +16,7 @@
 - <b> </b>
   - [Engineering Problems in Hospitals Projec](https://github.com/rxrohans/eph)
 - <b> DSO Voltage Graphs</b>
--[DSO Voltage Graphs](https://github.com/rxrohans/dso)
+-[DSO Voltage Graphs](https://github.com/rxrohans/dso_graph_Webapp)
 <h2> Market Research Project</h2>
 - <b> B.Pharm Project</b>
 - [Market study of Anti Asthmatic Drugs]
